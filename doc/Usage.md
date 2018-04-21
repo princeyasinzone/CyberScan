@@ -6,7 +6,7 @@
 Make sure you have CyberScan in your machine:
 
 ```sh
-$ git clone https://github.com/medbenali/CyberScan.git
+$ git clone https://github.com/princeyasinzone/CyberScan.git
 ```
 
 You can test the installation firing up CyberScan iteratively. These are some useful functions:
