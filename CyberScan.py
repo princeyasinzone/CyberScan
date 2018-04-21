@@ -14,7 +14,7 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor Boston,
 #  MA 02110-1301, USA.
 #
-#  Author: Mohamed BEN ALI
+#  By : Prince Yasin
 
 import os
 import sys
@@ -39,7 +39,7 @@ __description__ = '''\
   ___________________________________________
 
   CyberScan | v.''' + __version__ + '''
-  Author: BEN ALI Mohamed
+  Author: By Prince Yasin
   ___________________________________________
 '''
 
@@ -64,7 +64,7 @@ def usage():
 	  ___________________________________________
 	 
  	  CyberScan | v.1.1.1   
-	  Author: BEN ALI Mohamed
+	  By Prince Yasin
  	  ___________________________________________
 	
 
